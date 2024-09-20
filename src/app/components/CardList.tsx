@@ -3,9 +3,9 @@
 import React from "react";
 import { Filter } from "lucide-react";
 import Image from "next/image"; // Import Next.js Image component
-import avatar1 from "../assets/avatar1.jpg";
-import avatar2 from "../assets/avatar2.png";
-import avatar3 from "../assets/avatar3.jpg";
+import avatar1 from "../assets/av1.jpg";
+import avatar2 from "../assets/av2.png";
+import avatar3 from "../assets/av3.jpg";
 
 // Define types for the Card component props
 import { StaticImageData } from "next/image";

@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import Wade from "../assets/avatar3.jpg";
+import Wade from "../assets/av3.jpg";
 
 const Explore = () => {
   return (
